@@ -74,3 +74,5 @@ BƯỚC 7: PUBLIC KẾT QUẢ LÊN DOMAIN THÔNG QUA CLOUDFLARE:
 6. Chạy Tunnel: cloudflared tunnel run django-tunnel
 
 ===> Kết quả:
+<img width="1805" height="581" alt="image" src="https://github.com/user-attachments/assets/0e694f21-c616-413d-8d49-51fc2ccbac0d" />
+
